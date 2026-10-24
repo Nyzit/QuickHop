@@ -14,7 +14,7 @@
  
 - ```/hoppertick <amount>``` sets the number of items moved per transfer.
 - Settings persist after a server restart.
-- No additional plugins are required.
-<br></br>
-## IMPORTANT DISCLAIMER
-This plugin was created with AI. I did not personally write the code, and I do not claim sole authorship or credit for it. 
+- No additional plugins are required
+---
+> [!IMPORTANT]
+> This plugin was created with AI. I did not personally write the code, and I do not claim sole authorship or credit for it. 
